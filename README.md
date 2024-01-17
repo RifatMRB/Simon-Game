@@ -1,1 +1,2 @@
 # Simon-Game
+It is a basic version of the Simon Game using HTML, CSS, and JavaScript .The Simon Game is a classic electronic memory game that challenges players to remember and replicate a growing sequence of colors.The game begins when any key is pressed.

@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+.btn1{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2px;
+    background-color: rgb(188, 128, 245);
+}
+.btn2{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2px;
+    background-color: rgb(92, 221, 215);
+}
+.btn3{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2px;
+    background-color: rgb(232, 156, 106);
+}
+.btn4{
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 2px;
+    background-color: rgb(101, 101, 235);
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.flash{
+    background-color: black;
+}
+.userflash{
+    background-color: green;
+}
